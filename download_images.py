@@ -3,10 +3,10 @@ import os, sys, time, bs4, json
 import urllib.request, urllib.error
 
 # 設定：検索するキーワード
-keywords = ['udon', 'pasta', 'ramen']
+keywords = ['Shibainu', 'Chihuahua', 'Golden Retriever']
 
 # 設定：検索する数
-image_count = 50
+image_count = 300
 
 # 設定：画像を保存するファイルパス
 dataset_dir = "./dataset/"
